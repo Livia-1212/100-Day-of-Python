@@ -1,8 +1,8 @@
 # 100-Day-of-Python
 
 ## My journey of 100 Days of Code - The Complete Python Pro Bootcamp 
-*This project includes using the following tools and technologies: *
-**Python 3 - the latest version of Python\
+This project includes using the following tools and technologies: \
+Python 3 - the latest version of Python\
 PyCharm, Jupyter Notebook, Google Colab \
 Python Scripting and Automation\
 Python Game Development\
